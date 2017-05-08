@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "61919552448",
+    "firebase_url": "https://cafenews-3b8a0.firebaseio.com",
+    "project_id": "cafenews-3b8a0",
+    "storage_bucket": "cafenews-3b8a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61919552448:android:a24c681ad333d806",
+        "android_client_info": {
+          "package_name": "slider.yassinelhadedy.github.com.cafenews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61919552448-ieavaknke1fml9ttnnhorht0r8otf6mf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "slider.yassinelhadedy.github.com.cafenews",
+            "certificate_hash": "708752ab4bd7405756b7740e554fb082c777018e"
+          }
+        },
+        {
+          "client_id": "61919552448-7rkn9rs1cm010jm8t208j29i08kppc1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5M2ZdUPN50E1bODKwMso-vxlIV3QjRHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61919552448-7rkn9rs1cm010jm8t208j29i08kppc1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
